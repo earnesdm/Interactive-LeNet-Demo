@@ -8,7 +8,7 @@ width="400"
 ## Description
 A interactive program that lets you draw digits (0-9) with you mouse and send them to a trained LeNet model which predicts the digit given the raw pixels. It is an enjoyable way to interact with LeNet and a great tool for teaching CNNs.  
 
-The code is written in such a way that it is easy to try out new neural network architechtures. The network architechture can be modified in "model.py" and retrained by running "train.py" which will overwrite the old model parameters. You can then rerun the GUI with "main.py."
+The code is written in such a way that it is easy to try out new neural network architechtures. The network architechture can be modified in "model.py" and retrained by running "train.py" which will save the new model parameters. Replace the old model parameters with the new ones and you can then rerun the GUI with "main.py."
 
 To learn more about LeNet read: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 
