@@ -12,6 +12,8 @@ The code is written in such a way that it is easy to try out new neural network 
 
 To learn more about LeNet, read: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 
+Video Demo: https://youtube.com/shorts/avoPbmiHj-U?feature=share
+
 ## Getting Started
 To use this project, run main.py. This will open the GUI in a new window. The main window of the GUI is a canvas that you can use to draw a digit (0-9) with your mouse. Once you have drawn your digit, pressing "Guess" will send the digit to LeNet (a convolutional neural network) who will guess your digit, given the drawing. Pressing "Clear" will clear the canvas, allowing you to draw a new digit.
 
